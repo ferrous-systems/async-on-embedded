@@ -10,13 +10,15 @@ Thanks for checking out our work! We wrote this PoC to test out the [compiler wo
 
 We don't intend to continue to work on this repository, or accept pull requests, for the time being but you are more than welcome to use it as a reference! The code is permissively licensed (MIT / Apache-2).
 
+We have also submitted this project to the [Rust Embedded Community](https://github.com/rust-embedded-community/async-on-embedded) organization. If you're interested in contributing, check it out over there!
+
 If you are interested in using the async/await in your embedded project or evaluate it for a project, [give us a call]! We do consulting.
 
 [give us a call]: https://ferrous-systems.com/#contact
 
 To learn more about embedded async/await work check out this series of blog posts we wrote on the topic:
 
-- [Bringing async/await to embedded Rust](https://ferrous-systems.com/blog/embedded-async-await/) 
+- [Bringing async/await to embedded Rust](https://ferrous-systems.com/blog/embedded-async-await/)
 - [async/await on embedded Rust](https://ferrous-systems.com/blog/async-on-embedded/)
 - [no_std async/await - soon on stable](https://ferrous-systems.com/blog/stable-async-on-embedded/)
 
